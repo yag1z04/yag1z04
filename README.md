@@ -8,7 +8,7 @@ Here are some ideas to get you started!
 
 • 📫  How to reach me: yagizavcioglu@gmail.com
 
-Thanks for visiting!
+Thanks for visiting 🙏
 <!--
 **yag1z04/yag1z04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
