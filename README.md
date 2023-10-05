@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here are some ideas to get you started!
+
+• 🏫  I'm currently pursuing a degree in Business Administration at Izmir University of Economics. 
+• 🖥️  I'm currently learning Python, SQL
+• 📫  How to reach me: yagizavcioglu@gmail.com
 <!--
 **yag1z04/yag1z04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
