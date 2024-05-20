@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Yağız Avcıoğlu</h1>
 <h3 align="center">A student at Izmir University of Economics</h3>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, SQL, Excel**
 
 - 📫 How to reach me **yagizavcioglu@gmail.com**
 
